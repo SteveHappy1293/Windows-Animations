@@ -37,10 +37,10 @@ namespace Windows_Animations
         [StructLayout(LayoutKind.Sequential)]
         public struct RECT
         {
-            public int Left;                             //最左坐标
-            public int Top;                             //最上坐标
-            public int Right;                           //最右坐标
-            public int Bottom;                        //最下坐标
+            public int Left;                             //左
+            public int Top;                             //上
+            public int Right;                           //右
+            public int Bottom;                        //下
         }
         [DllImport("user32.dll", CharSet = CharSet.Auto, ExactSpelling = true)]
         public static extern IntPtr GetForegroundWindow();
@@ -54,13 +54,9 @@ namespace Windows_Animations
         List<string> list = new List<string>();
         public void Sub()
         {
-            // 初始化全局鼠标和键盘事件钩子
             m_GlobalHook = Hook.GlobalEvents();
-
-            // 订阅鼠标事件
             m_GlobalHook.MouseDownExt += M_GlobalHook_MouseDownExt;
             m_GlobalHook.MouseUpExt += M_GlobalHook_MouseUpExt;
-
             m_GlobalHook.KeyDown += M_GlobalHook_KeyDown;
         }
 
@@ -77,8 +73,6 @@ namespace Windows_Animations
         private void M_GlobalHook_MouseUpExt(object sender, MouseEventExtArgs e)
         {
             IsDraging = false;
-            
-            
         }
 
         private void M_GlobalHook_MouseDownExt(object sender, MouseEventExtArgs e)
@@ -157,7 +151,7 @@ namespace Windows_Animations
 
         private void Bar_Click(object sender, RoutedEventArgs e)
         {
-            new Letter().Show();
+            //new Letter().Show();
         }
     }
 }
