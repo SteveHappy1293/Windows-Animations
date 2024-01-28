@@ -1,0 +1,1 @@
+taskkill /f /im "Windows Animations.exe"

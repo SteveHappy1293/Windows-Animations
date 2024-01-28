@@ -1,0 +1,20 @@
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\bin\Debug\Windows Animations.exe.config
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\bin\Debug\Windows Animations.exe
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\bin\Debug\Windows Animations.pdb
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.csproj.AssemblyReference.cache
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\MainWindow.g.cs
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\App.g.cs
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations_MarkupCompile.cache
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations_MarkupCompile.lref
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\MainWindow.baml
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.g.resources
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows_Animations.Properties.Resources.resources
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.csproj.GenerateResource.cache
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.exe
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.pdb
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Windows Animations.csproj.CopyComplete
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Letter.g.cs
+C:\Users\Steve\source\repos\Windows Animations\Windows Animations\obj\Debug\Letter.baml
